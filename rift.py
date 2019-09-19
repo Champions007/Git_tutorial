@@ -1,1 +1,1 @@
-__import__('pprint').pprint()
+print("hello world")
